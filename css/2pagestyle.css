@@ -1,0 +1,45 @@
+
+
+body {
+    background-color: #191919;
+    color: rgb(144, 238, 144);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+
+a {
+    color: rgb(82, 0, 2);
+}
+
+span {
+    color: rgb(218, 79, 79);
+    font-weight: 600;
+}
+
+
+.p_first_paragraph{
+    
+    color:rgb(183, 181, 181);
+    font-style: italic;
+}
+
+.p_second_paragraph{
+    
+    font-weight: 500;
+}
+
+
+
+.img_left{
+    float: left;
+    width: 30%;
+    margin: 30px;
+}
+
+.img_right{
+
+    float: right;
+    width: 30%;
+    margin: 20px;
+}
